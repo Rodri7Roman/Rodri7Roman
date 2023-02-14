@@ -1,4 +1,7 @@
-### Hola! Mi nombre es Rodrigo Román 👋
+### Hola! Mi nombre es Rodrigo Román.
+
+Soy un Desarrollador Full Stack especializado en Front End, desde muy chico me interesaron los videojuegos y el mundo de la programanación.
+
 
 <!--
 **Rodri7Roman/Rodri7Roman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
