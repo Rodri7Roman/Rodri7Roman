@@ -13,17 +13,29 @@ Debido a mi pasión por la tecnología, en 2018 comencé a estudiar con cursos d
 ---
 
 • JavaScript
+
 • ReactJS
+
 • Redux
+
 • SASS
+
 • LESS
+
 • CSS
+
 • Bootstrap
+
 • NodeJS
+
 • ExpressJS
+
 • Python
+
 • Sequelize
+
 • Git
+
 • GitHub
 
 Hobbies
@@ -34,6 +46,7 @@ Ver Streaming
 No dudes en contactarme
 -- 
 Linkedin: https://www.linkedin.com/in/rodrigo-roman-0a58811b0/
+
 Email: romanrodri03@gmail.com
 
 
