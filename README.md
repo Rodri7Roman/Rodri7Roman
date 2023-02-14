@@ -29,6 +29,7 @@ Debido a mi pasión por la tecnología, en 2018 comencé a estudiar con cursos d
 Hobbies
 ----
 Jugar videojuegos
+
 Ver Streaming
 
 No dudes en contactarme
