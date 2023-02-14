@@ -30,3 +30,10 @@ Hobbies
 ----
 Jugar videojuegos
 Ver Streaming
+
+No dudes en contactarme
+-- 
+Linkedin: https://www.linkedin.com/in/rodrigo-roman-0a58811b0/
+Email: romanrodri03@gmail.com
+
+
