@@ -13,29 +13,17 @@ Debido a mi pasión por la tecnología, en 2018 comencé a estudiar con cursos d
 ---
 
 • JavaScript
-
 • ReactJS
-
 • Redux
-
 • SASS
-
 • LESS
-
 • CSS
-
 • Bootstrap
-
 • NodeJS
-
 • ExpressJS
-
 • Python
-
 • Sequelize
-
 • Git
-
 • GitHub
 
 Hobbies
