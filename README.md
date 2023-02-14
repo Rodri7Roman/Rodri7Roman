@@ -1,22 +1,32 @@
 ### Hola! Mi nombre es Rodrigo Román.
 
+¿Quien Soy?
+---------
 Soy Desarrollador Web Full Stack especializado en Front End, desde muy chico me interesaron los videojuegos y el mundo de la programación. Mi primer lenguaje fue Python.
 Sin dudas, no me arrepiento de haber tomado la decisión de integrarme en este maravilloso mundo. 
 
-Debido a mi pasión por la tecnología, en 2018 comencé a estudiar con cursos de HTML y CSS en YouTube. Entendiendo que queria obtener un conocimiento mucho más amplio sobre este mundo, comencé a estudiar Ingenieria Informatica en UADE en el año 2020, la cual actualmente estoy cursando 3er año y me ayuda muchisimo a mejorar la lógica de programación. En 2022 opté por realizar el curso de Desarrollo Web y JavaScript en CoderHouse para fortalecer conocimientos. Posteriormente logré ingresar a la carrera de Desarrollador Full Stack de SoyHenry donde cumplí con mas de 800 horas de teoria y práctica. 
+Sobre mi
+-----
+Debido a mi pasión por la tecnología, en 2018 comencé a estudiar con cursos de HTML y CSS en YouTube. Entendiendo que queria obtener un conocimiento mucho más amplio sobre este mundo, comencé a estudiar Ingenieria Informatica en UADE en el año 2020, la cual actualmente estoy cursando 3er año y me ayuda muchisimo a mejorar la lógica de programación. En 2022 opté por realizar el curso de Desarrollo Web y JavaScript en CoderHouse para fortalecer conocimientos. Posteriormente logré ingresar a la carrera de Desarrollador Full Stack de SoyHenry donde cumplí con mas de 800 horas de teoria y práctica.
 
+¿Que tecnologias utilizo?
+---
 
-<!--
-**Rodri7Roman/Rodri7Roman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• JavaScript
+• ReactJS
+• Redux
+• SASS
+• LESS
+• CSS
+• Bootstrap
+• NodeJS
+• ExpressJS
+• Python
+• Sequelize
+• Git
+• GitHub
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hobbies
+----
+Jugar videojuegos
+Ver Streaming
