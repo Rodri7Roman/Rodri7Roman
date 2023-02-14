@@ -1,6 +1,7 @@
 ### Hola! Mi nombre es Rodrigo Román.
 
-Soy un Desarrollador Full Stack especializado en Front End, desde muy chico me interesaron los videojuegos y el mundo de la programanación.
+Soy un Desarrollador Full Stack especializado en Front End, desde muy chico me interesaron los videojuegos y el mundo de la programación. Mi primer lenguaje fue Python.
+Sin dudas, no me arrepiento de haber tomado la decisión de integrarme en este maravilloso mundo. 
 
 
 <!--
