@@ -1,4 +1,4 @@
-### <h1 align="center">Hola! Mi nombre es Rodrigo Román.</h1>
+### <h1>Hola! Mi nombre es Rodrigo Román.</h1>
 
 ¿Quien Soy?
 ---------
