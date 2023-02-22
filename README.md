@@ -20,7 +20,7 @@ Jugar videojuegos
 
 Ver Streaming
 
-Aprender sobre videojuegos
+Ver videos relacionados a la tecnología
 
 No dudes en contactarme
 -- 
