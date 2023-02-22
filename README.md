@@ -20,6 +20,8 @@ Jugar videojuegos
 
 Ver Streaming
 
+Ver videos sobre tecnología
+
 No dudes en contactarme
 -- 
 Linkedin: https://www.linkedin.com/in/rodrigo-roman-0a58811b0/
