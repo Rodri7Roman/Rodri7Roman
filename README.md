@@ -18,9 +18,10 @@ Hobbies
 ----
 Jugar videojuegos
 
+Ver videos relacionados a la tecnología
+
 Ver Streaming
 
-Ver videos relacionados a la tecnología
 
 No dudes en contactarme
 -- 
