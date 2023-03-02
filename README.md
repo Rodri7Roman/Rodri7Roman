@@ -18,7 +18,7 @@ Hobbies
 ----
 Jugar videojuegos
 
-Investigar sobre la tecnología
+Investigar sobre tecnología
 
 Ver Streaming
 
