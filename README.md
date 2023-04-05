@@ -16,11 +16,11 @@ Debido a mi pasión por la tecnología, en 2018 comencé a estudiar con cursos d
 
 Hobbies:
 ----
-Jugar videojuegos
+Jugar videojuegos.
 
-Investigar sobre tecnología
+Investigar sobre tecnología.
 
-Ver Streaming
+Ver Streaming.
 
 
 No dudes en contactarme
