@@ -25,7 +25,8 @@ Ver Streaming.
 
 No dudes en contactarme
 ---
-Linkedin: <a href="https://www.linkedin.com/in/rodrigo-roman-0a58811b0/" target="_blank" rel="noreferrer">
+Linkedin: 
+<a href="https://www.linkedin.com/in/rodrigo-roman-0a58811b0/" target="_blank" rel="noreferrer">
 Email: romanrodri03@gmail.com
 
 
